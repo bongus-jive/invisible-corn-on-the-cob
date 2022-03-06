@@ -1,0 +1,12 @@
+[{
+	"op" : "add",
+	"path" : "/defaultBlueprints/tier1/-",
+	"value" : {
+		"item" : "corn",
+		"parameters" : {
+			"inventoryIcon" : "cornicon.png?scale=0",
+			"shortdescription" : "Invisible Corn",
+			"description" : "Invisible, sweet and corny, good for digestion!"
+		}
+	}
+}]

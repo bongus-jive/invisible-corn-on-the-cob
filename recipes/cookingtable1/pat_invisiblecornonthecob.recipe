@@ -1,0 +1,15 @@
+{
+  "input" : [
+    {"item" : "corn", "count" : 1}
+  ],
+  "output" : {
+		"item" : "corn",
+		"count" : 1,
+		"parameters" : {
+			"inventoryIcon" : "cornicon.png?crop=0;0;0;0",
+			"shortdescription" : "Invisible Corn",
+			"description" : "Invisible, sweet and corny, good for digestion!"
+		}
+	},
+  "groups" : ["craftingfood", "mains"]
+}
