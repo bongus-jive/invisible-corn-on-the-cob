@@ -1,15 +1,14 @@
 {
   "input": [
-    { "item": "corn", "count": 1 }
+    { "item": "corn" }
   ],
   "output": {
-    "item": "corn",
-    "count": 1,
+    "name": "corncob",
     "parameters": {
-      "inventoryIcon": "cornicon.png?crop=0;0;0;0",
-      "shortdescription": "Invisible Corn",
-      "description": "Invisible, sweet and corny, good for digestion!"
+      "shortdescription": "Invisible Corn Cob",
+      "description": "An invisible ear of corn on the cob.",
+      "inventoryIcon": "corncob.png?crop=0;0;0;0"
     }
   },
-  "groups": [ "craftingfood", "mains" ]
+  "groups": [ "craftingfood", "sides" ]
 }

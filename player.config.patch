@@ -3,7 +3,7 @@
     "op": "add",
     "path": "/defaultBlueprints/tier1/-",
     "value": {
-      "item": "corn",
+      "item": "corncob",
       "parameters": {
         "inventoryIcon": "cornicon.png?crop=0;0;0;0",
         "shortdescription": "Invisible Corn",
