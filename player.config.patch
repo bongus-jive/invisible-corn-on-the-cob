@@ -5,7 +5,7 @@
     "value": {
       "item": "corn",
       "parameters": {
-        "inventoryIcon": "cornicon.png?scale=0",
+        "inventoryIcon": "cornicon.png?crop=0;0;0;0",
         "shortdescription": "Invisible Corn",
         "description": "Invisible, sweet and corny, good for digestion!"
       }
